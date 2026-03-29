@@ -1,6 +1,6 @@
 # Hey, I'm Seb.
 
-UBC Mechanical Engineering student on exchange at NTU Singapore. I build things across the full stack: software, hardware, whatever it takes. Most of my projects started as personal problems I got frustrated enough to fix. At some point I realised that if I had the problem, someone else probably did too. So I built it properly, for both of us.
+UBC Integrated Engineering student on exchange at NTU Singapore. I build things across the full stack: software, hardware, whatever it takes. Most of my projects started as personal problems I got frustrated enough to fix. At some point I realised that if I had the problem, someone else probably did too. So I built it properly, for both of us.
 
 ---
 
